@@ -1,5 +1,3 @@
 Hello dojo
 
-* Ruby
-* CSS
-*JQuery
+Ruby
